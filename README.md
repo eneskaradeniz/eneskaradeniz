@@ -3,9 +3,9 @@
 
 - 💬 Ask me about **.NET, CQRS, Clean Architecture, RESTful APIs, SQL and NoSQL Databases, Flutter**
 
-- 📫 How to reach me **eneskrdnz28@gmail.com**
+- 📫 How to reach me **eneskaradeniz034@gmail.com**
 
-- 📄 Know about my experiences [linkedin](linkedin.com/in/enes-karadeniz-689a2118a)
+- 📄 Know about my experiences [linkedin](linkedin.com/in/eneskaradeniz)
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
