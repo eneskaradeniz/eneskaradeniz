@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Karadeniz</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 💬 Ask me about **.NET, CQRS, Clean Architecture, RESTful APIs, SQL and NoSQL Databases, Flutter**
+- 💬 Ask me about **.NET, DDD, CQRS, Clean Architecture, RESTful APIs, SQL and NoSQL Databases, Flutter**
 
 - 📫 How to reach me **eneskaradeniz034@gmail.com**
 
